@@ -1,6 +1,6 @@
 # Déclaration d'utilisation d'outils d'IA
 
-**Étudiante :** BELCAID Siham — **Code Apogée :** 23008686 — **Groupe :** CI — **Sujet :** CI22
+**Étudiante :** DRIOUICH Ichrak — **Code Apogée :** 23008947 — **Groupe :** CI — **Sujet :** CI22
 
 | Outil | Usage | Parties concernées | Vérification |
 |---|---|---|---|
